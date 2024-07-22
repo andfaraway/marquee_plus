@@ -1,3 +1,7 @@
+## 2.2.4
+
+- Update `fading_edge_scrollview` dependency to `4.1.1`, which supports Flutter 3.22.3
+
 ## 2.2.3
 
 - Update `fading_edge_scrollview` dependency to `3.0.0`, which supports Flutter 3.
