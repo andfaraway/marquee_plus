@@ -1,3 +1,5 @@
+- Update `fading_edge_scrollview` dependency to `4.1.1`, which supports Flutter 3.22.3
+
 ⏩ A Flutter widget that scrolls text infinitely. Provides many customizations
 including custom scroll directions, durations, curves as well as pauses after
 every round.
